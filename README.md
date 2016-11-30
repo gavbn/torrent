@@ -72,7 +72,7 @@ $ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-
 
 [AWS](https://aws.amazon.com)
 
-**Heroku*
+Heroku
 
 Click this button
 
